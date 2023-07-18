@@ -1,0 +1,39 @@
+/* work sans from google */
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@800&display=swap');
+/* nav styles*/
+nav{
+    display: flex;
+    justify-content: space-between;
+}
+nav a{
+    text-decoration: none;
+    color: black;
+}
+.gamer{
+    display: flex;
+    align-items: center;
+    padding-left: 100px;
+    gap: 10px;
+}
+*{
+    font-family: 'work-sans', sans-serif;
+    font-family: 'open-sans', sans-serif;
+}
+.gamer-title{
+    font-size: 45px;
+    font-weight: 700;
+}
+.gamer-color{
+    color: #FF42A5;
+}
+.gamer-option{
+    display: flex;
+    align-items: center;
+    padding-right: 60px;
+}
+.gamer-contents{
+    padding-right: 30px;
+}
+.btn-thing{
+    font-size: 15px;
+}
